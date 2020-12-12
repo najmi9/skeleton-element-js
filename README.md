@@ -20,4 +20,4 @@ const App = () => {
 }
 ```
 
-This code is from a tutorial of [Grafikart](grafikart.fr).
+This code is from a tutorial of [Grafikart](https://grafikart.fr).
